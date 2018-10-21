@@ -1,0 +1,87 @@
+body {
+	
+	 
+    font-size: 1.5em;
+    color: #E9967A;
+
+
+
+}
+
+
+#section1{
+	margin-top:3%;
+	padding-top:30px;
+	padding-bottom:10px;
+	color:#000000; background-color:  #cccccc;
+	
+  
+}
+
+#section2{
+	padding-top:30px;
+	padding-bottom:10px;
+	color: #000000; background-color: #8c8c8c;
+}
+#section3{
+	padding-top:30px;
+	padding-bottom:60px;
+	color: #fff; background-color: #1a1a1a;
+}
+#header-nav {
+  background-color:#191970;/*#E9967A;/*#f6b319;*/
+  border-radius: 0;
+  
+}
+.navbar-brand h1{
+font-family: 'Open Sans', sans-serif;
+color:#F0F8FF;	
+font-size:2em;
+font-weight:bold;
+text-shadow:2px 2px 2px #222;
+margin-top:0;
+margin-bottom:0;
+/*line-height:.75;*/
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  margin-bottom:none;
+}
+.navbar-brand{
+	padding-top:30px;
+	padding-bottom:55px;
+}
+#nav-list a {
+	color:#F0F8FF;
+	padding-bottom:14px;
+	padding-top:14px;
+	text-align:center;
+	font-size:1.8em;
+	border-top:1.5px solid #F0F8FF;
+	background:#483D8B
+
+
+
+}
+#nav-list{
+	margin-bottom:0;
+	border:1px solid #F0F8FF;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #fff;
+
+}
+
+.navbar-header button.navbar-toggle:hover{
+  
+  background:#5F9EA0;
+}
+#nav-list a:hover {
+ background:#5F9EA0;
+   
+ 
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -60px;
+}
